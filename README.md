@@ -1,17 +1,29 @@
-### hello my name is dimas yoga👋👋
+# Profil GitHub
 
-<!--
-**dimaskecee/dimaskecee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Halo, Saya Dimas yoga
 
-Here are some ideas to get you started:
+![Profil](https://github.com/account)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-welcome to my github profile⚡
+Saya seorang front end developer dengan minat khusus dalam:
+
+- **Pengembangan Web**
+- **Open Source Contribution**
+
+### Bahasa Pemrograman Favorit
+
+1. JavaScript 
+
+### Projek Terbaru
+
+<!--- [Nama Projek 1](link_projek_1) - Deskripsi singkat.
+- [Nama Projek 2](link_projek_2) - Deskripsi singkat.-->
+
+### Statistik GitHub
+
+![Statistik GitHub](https://github.com/dimaskecee/dimaskecee/pulse)
+
+### Hubungi Saya
+
+ [Portfolio](dimascuy.vercel.app)
+
+Terima kasih telah mengunjungi profil saya!
