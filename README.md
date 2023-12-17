@@ -2,7 +2,7 @@
 
 ## Halo, Saya Dimas yoga
 
-![Profil](https://github.com/account)
+<!--![Profil](https://github.com/account)-->
 
 Saya seorang front end developer dengan minat khusus dalam:
 
@@ -20,7 +20,7 @@ Saya seorang front end developer dengan minat khusus dalam:
 
 ### Statistik GitHub
 
-![Statistik GitHub](https://github.com/dimaskecee/dimaskecee/pulse)
+![Statistik GitHub](https://github.com/dimaskecee)
 
 ### Hubungi Saya
 
