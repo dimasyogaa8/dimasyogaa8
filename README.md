@@ -12,4 +12,4 @@ Language Knowledge
 # Media sosial
 [Instagram ](), [Github](), [Facebook]()
 
-![uler](https://ibb.co/SwZr40T)
+![uler](https://uploads.jovemnerd.com.br/wp-content/uploads/2023/03/anya__y3q1ops-1210x544.jpg)
