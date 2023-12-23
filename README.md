@@ -1,5 +1,13 @@
-## hi bro
+### Hi everyone
 
-wellcome my github profile
-[my project](https://github.com/dimaskecee/Portofolio-.git)
-[my protfolio](https://github.com/dimaskecee/Portofolio-.git)
+---
+My name is Dimas Yoga Kurniawan, my hobbies are reading and watching films
+
+Language Knowledge
+- HTML
+- CSS
+- JAVASCRIPT
+- PYTHON
+
+# Media sosial
+[Instagram ](), [Github](), [Facebook]()
